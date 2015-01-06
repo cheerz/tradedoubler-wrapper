@@ -1,0 +1,23 @@
+{
+  "name": "tradedoubler-wrapper",
+  "version": "0.0.0",
+  "authors": [
+    "Antoine Lépée <alepee@gmail.com>"
+  ],
+  "description": "Wrapper for tradedoubler tracking script",
+  "main": "tradedoubler.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "tradedoubler"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
